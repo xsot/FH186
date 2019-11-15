@@ -1,4 +1,4 @@
-d={};q='?'
+d,q={},'?'
 while 1:
  s=input();l,r=s.split('=')
  if l==q:l,r=(r,l)
