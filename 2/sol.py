@@ -1,1 +1,1 @@
-while 1:print('{0:g}'.format(eval(input().replace(' ',f'/10**'))))
+while 1:print('{0:g}'.format(eval(input().replace(' ','/10**'))))
