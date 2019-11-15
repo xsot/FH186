@@ -1,0 +1,1 @@
+while 1:s=raw_input();print ["Rock","Paper","Scissors"][(9<len(s)<13)-(len(s)>13)]

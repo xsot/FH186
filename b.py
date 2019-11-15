@@ -1,0 +1,1 @@
+while 1:a,b=raw_input().split();print "%f"%(int(a)/10.**int(b))
